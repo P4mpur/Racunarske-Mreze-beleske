@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "3251babb00281c2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "062bf2be96734e59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "985e00854fed67e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "II.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57951d98a5af1df4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VII.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2bf32ae0e3eb4d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VII.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "615f0d34c6a61611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "V.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da4677f7f1f3a115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Racunarske Mreze P-2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad9fc0d75c1d9a51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VI.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b831e7c158adc5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ad0a4f4e9ea2a06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c41e8102baf8b45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "078d8880ffe3e7dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47ae3fca9dc36c77",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5
+  },
+  "right": {
+    "id": "79c2a6a68e87c520",
+    "type": "split",
+    "children": [
+      {
+        "id": "591d7e50bef8d8cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcb4ca880ca92233",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VII.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8080889224802c4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "VII.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ed27af320a6c20e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "772080b8b283f123",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "VII.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b2bf32ae0e3eb4d0",
+  "lastOpenFiles": [
+    "VI.md",
+    "V.md",
+    "IV.md",
+    "III.md",
+    "II.md",
+    "I.md",
+    "VII.md",
+    "Racunarske Mreze P-2.md",
+    "Racunarske Mreze P-1.md",
+    "CRC.md",
+    "Proslo/Racunarske Mreze P-1.md",
+    "Proslo/Racunarske Mreze P-3.md",
+    "Proslo/Racunarske Mreze P-2.md",
+    "Proslo"
+  ]
+}
