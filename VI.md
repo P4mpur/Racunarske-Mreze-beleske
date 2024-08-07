@@ -77,7 +77,7 @@
 	- izmeriti kasnjenje do svakog suseda
 	- konstruisati paket koji sadrzi sve sto znas
 	- poslati paket svim ruterima
-	- izracunaati najbolji put do svih rutera
+	- izracunati najbolji put do svih rutera
 
 - Otkrivanje suseda se vrsi tako sto kada se ruter boot-uje on posalje svima `HELLO` paket po svim point-to-point linijma i ocekuju odgovor od drugih suseda koji sadrzi IP adresu suseda
 - Kasnjenje se meri ECHO packet-om

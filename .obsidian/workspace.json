@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "6c8814a92e631db3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIII.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "615f0d34c6a61611",
             "type": "leaf",
             "state": {
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 209.5,
+    "collapsed": true
   },
   "right": {
     "id": "79c2a6a68e87c520",
@@ -152,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VII.md",
+                "file": "VIII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VII.md",
+                "file": "VIII.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VII.md"
+                "file": "VIII.md"
               }
             }
           }
@@ -213,15 +227,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2bf32ae0e3eb4d0",
+  "active": "6c8814a92e631db3",
   "lastOpenFiles": [
+    "VII.md",
     "VI.md",
     "V.md",
     "IV.md",
     "III.md",
     "II.md",
     "I.md",
-    "VII.md",
+    "VIII.md",
     "Racunarske Mreze P-2.md",
     "Racunarske Mreze P-1.md",
     "CRC.md",
