@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIII.md",
+                "file": "IX.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,9 +97,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "038c3daea80962a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XI.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -149,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 209.5
   },
   "right": {
     "id": "79c2a6a68e87c520",
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIII.md",
+                "file": "XI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIII.md",
+                "file": "XI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIII.md"
+                "file": "XI.md"
               }
             }
           }
@@ -227,16 +239,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c8814a92e631db3",
+  "active": "038c3daea80962a5",
   "lastOpenFiles": [
+    "II.md",
+    "XI.md",
     "VII.md",
+    "IX.md",
+    "Untitled.md",
+    "VIII.md",
     "VI.md",
     "V.md",
     "IV.md",
     "III.md",
-    "II.md",
     "I.md",
-    "VIII.md",
     "Racunarske Mreze P-2.md",
     "Racunarske Mreze P-1.md",
     "CRC.md",
